@@ -1,0 +1,6 @@
+	Menu		Price
+ 1	item1		20
+ 2 	item2		30
+ 3	item3		40
+ 4	item4		50
+ 5	item5		60

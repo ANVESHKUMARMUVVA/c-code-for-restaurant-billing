@@ -1,0 +1,2 @@
+CustomerName	ContactNo	OrderNo	MenuItems	TotalAmount	Discount
+
